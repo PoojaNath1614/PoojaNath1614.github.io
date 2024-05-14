@@ -1,0 +1,98 @@
+body{
+    top:2px;
+    background-color:darksalmon;
+    color:darkred;
+
+}
+#emptytop{
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:1165.99px;
+    height:10px;
+    background-color:gray;
+    
+}
+#emptybottom{
+    position:absolute;
+    bottom:0px;
+    left:0px;
+    /*width:1165.99px;*/
+    height:1160px;
+    width:10px;
+    background-color:gray;
+}
+.img1div{
+    height:170px;
+    width: 170px;
+}
+#image{
+    width: 170px;
+    height: 170px;
+    position:absolute;
+    top:20px;
+    left:25px;
+    
+}
+#head1{
+    position:relative;
+}
+#head3{
+    color:black;
+}
+.introdiv{
+    height:150px;
+    width:700px;
+    position:absolute;
+    top: 20px;
+    left:250px;
+    
+}
+#shot3{
+    position:absolute;
+    height:100%;
+    width:200px;
+    z-index:-1; 
+    right: 0px;
+    top: 0px;
+    opacity:0.5;
+}
+#onimg{
+    position:absolute;
+    right:75px;
+    top:50px;
+    height:40px;
+    width:65px;
+    color:white;
+    font-family:'Lucida Grande';
+    font-size:19px;
+}
+.quo{
+    font-size:18px;
+    font-family:monospace;
+   
+}
+#divpro{
+    background-color: blueviolet;
+    width:1100px;
+    height:400px;
+    position:relative;
+    left:25px;
+    top:40px;
+
+}
+.color-change{
+    position:absolute;
+    top:0px;
+    width:200px;
+    height:200px;
+    background-color: blue;
+}
+.dream-homes{
+    position:relative;
+    top:0px;
+    left:250px;
+    width:200px;
+    height:200px;
+    background-color: blanchedalmond;
+}
